@@ -1,0 +1,8 @@
+{   
+    "name":"Muckraker Website",
+    "version":"1.0",
+    "github": {
+      "enabled": true
+    },
+    "alias": ["muckraker.now.sh", "muckraker"]
+  }
