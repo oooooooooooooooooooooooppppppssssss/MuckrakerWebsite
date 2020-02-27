@@ -1,6 +1,6 @@
 {   
     "name":"Muckraker Website",
-    "version":"1",
+    "version":1.0,
     "github": {
       "enabled": true
     },
