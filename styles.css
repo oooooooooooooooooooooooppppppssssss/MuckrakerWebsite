@@ -6,3 +6,6 @@ left: 450px;
 position: relative;
 left: 100px;
 }
+p {
+    font-size:10vw;
+}
