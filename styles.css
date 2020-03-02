@@ -6,6 +6,7 @@ left: 450px;
 position: relative;
 left: 100px;
 top: 100px;
+margin: 5px;
 }
 .w3-bar w3-black{
 margin-bottom: 20px;
@@ -14,12 +15,15 @@ margin-bottom: 20px;
 footer{
     position: relative;
     top: 400px;
+    background-color: darkblue;
 }
 p {
     font-size:1vw;
 }
 h1 {
     font-size:2vw;
+    color: whitesmoke;
+    margin: 5px;
 }
 /*div.shadow {
     position:absolute;
