@@ -20,10 +20,16 @@ footer{
 p {
     font-size:1vw;
 }
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 h1 {
     font-size:2vw;
     color: whitesmoke;
-    margin: 5px;
+    margin: 5px, 5px, 5px, 5px;
 }
 /*div.shadow {
     position:absolute;
