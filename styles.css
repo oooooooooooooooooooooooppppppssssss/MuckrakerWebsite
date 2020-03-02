@@ -14,9 +14,10 @@ margin-right: 5px;
 margin-bottom: 20px;
 }
 footer{
-    position: relative;
-    top: 500px;
     background-color: darkblue;
+    position: fixed;
+    left: 0;
+     bottom: 0;
 }
 a {
     font-size:1.5vw;
