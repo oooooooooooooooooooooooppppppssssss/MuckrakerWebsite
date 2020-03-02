@@ -7,6 +7,10 @@ position: relative;
 left: 100px;
 top: 220px;
 }
+.w3-bar w3-black{
+margin-bottom: 20px;
+
+}
 p {
     font-size:1vw;
 }
