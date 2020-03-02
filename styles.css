@@ -37,7 +37,8 @@ b {
 h1 {
     font-size:1.5vw;
     color: whitesmoke;
-    margin-right: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
     font-family: 'Times New Roman', 'Times', 'serif';
 }
 /*div.shadow {
