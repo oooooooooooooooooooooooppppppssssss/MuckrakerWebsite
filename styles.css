@@ -20,14 +20,14 @@ footer{
 p {
     font-size:1vw;
 }
-.logo{
+.center{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
 h1 {
-    font-size:2vw;
+    font-size:1.5vw;
     color: whitesmoke;
     margin-right: 20px;
     font-family: 'Times New Roman', 'Times', 'serif';
