@@ -5,7 +5,7 @@ left: 450px;
 .post{
 position: relative;
 left: 100px;
-top: 220px;
+top: 100px;
 }
 .w3-bar w3-black{
 margin-bottom: 20px;
@@ -13,6 +13,9 @@ margin-bottom: 20px;
 }
 p {
     font-size:1vw;
+}
+h1 {
+    font-size:2vw;
 }
 /*div.shadow {
     position:absolute;
